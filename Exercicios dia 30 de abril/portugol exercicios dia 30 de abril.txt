@@ -1,0 +1,100 @@
+Exercício 1:
+
+Var Anos, Meses, Dias, Horas, Minutos
+
+Início
+
+ESCREVAL ("Qual é a sua idade?")
+LEIA (Anos)
+
+Meses + Anos *12
+Dias + Anos *365
+Horas = Anos *8760
+Minutos = Anos *525600
+
+ESCREVAL ("Sua idade em meses é:", Meses)
+ESCREVAL ("Sua idade em meses é:", Dias)
+ESCREVAL ("Sua idade em meses é:", Horas)
+ESCREVAL ("Sua idade em meses é:", Minutos)
+
+Fim
+
+
+
+Exercício 2:
+
+Var Nascimento, Atual, Idade, Semana
+
+Início
+
+ESCREVAL ("Qual o ano de nascimento seu?)
+LEIA (Nascimento)
+
+ESCREVAL ("Qual o ano atual?")
+LEIA (Atual)
+
+Idade = Atual - Nascimento
+Semana = Idade *52
+ESCREVAL ("Sua idade é igual a ", Idade, " anos”)
+ESCREVAL ("Sua idade em semanas é igual a:", Semana)
+
+Fim
+
+
+
+Exercício 3:
+
+Var NomePessoa, Salario, Reajuste
+
+Início
+
+ESCREVAL ("Qual o seu nome?")
+LEIA (NomePessoa)
+
+ESCREVAL ("Bom dia", NomePessoa, " qual o valor do seu salário? ")
+LEIA (Salario)
+
+SE Salario < 500 ENTAO
+   Reajuste = Salario *1.3
+   ESCREVAL ("Seu salário será reajustado para ", "R$", Reajuste)
+SENAO
+   ESCREVAL ("Seu salário não será reajustado")
+FIMSE
+
+Fim
+
+
+
+Desafio:
+
+Var NomePessoa, Idade
+
+Início
+
+ESCREVAL ("Olá qual o seu nome?")
+LEIA (NomePessoa)
+
+ESCREVAL ("Bom dia ", Nome pessoa, " por favor digite sua idade"
+LEIA (Idade)
+
+SE Idade >= 5 e Idade <= 7 ENTAO
+   ESCREVAL ("Sua categoria é a Infantil A")
+FIMSE
+
+SE Idade >= 8 e Idade <= 10 ENTAO
+   ESCREVAL ("Sua categoria é a Infantil B")
+FIMSE
+
+SE Idade >= 11 e Idade <= 13 ENTAO
+   ESCREVAL ("Sua categoria é a Juvenil A")
+FIMSE
+
+SE Idade >= 14 e Idade <= 17 ENTAO
+   ESCREVAL ("Sua categoria é a Juvenil B")
+FIMSE
+
+SE Idade >= 18 ENTAO
+   ESCREVAL ("Sua categoria é a Sênior")
+FIMSE
+
+fim
