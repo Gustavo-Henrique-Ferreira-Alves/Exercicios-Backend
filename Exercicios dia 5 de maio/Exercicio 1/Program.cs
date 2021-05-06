@@ -11,9 +11,10 @@ namespace Exercicio_1
             {
                 Console.WriteLine("Digite a nota de 0 a 10: ");
                 int nota = int.Parse(Console.ReadLine());
-                if (nota > 10)
+                if (nota > 10){
                 Console.WriteLine("Nota inválida!");
-            
+                resposta = false;
+                }
                 else
                 {
                 Console.WriteLine("Nota válida!");

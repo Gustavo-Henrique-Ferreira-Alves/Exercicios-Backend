@@ -1,0 +1,175 @@
+NOTA
+
+programa
+{
+	inteiro Nota
+
+	funcao inicio()
+	{
+	logico reposta = falso
+	faca{
+     escreval ("Digite a nota de 0 a 10: ")
+     leia (Nota)
+
+     se (Nota > 10) {
+     escreval ("Nota inválida!")
+     resposta = falso
+     }
+
+    senao {
+     escreval ("Nota válida!")
+     resposta = verdadeiro
+    }
+
+    }enquanto (resposta == falso)
+}
+}
+}
+
+
+USUARIO E SENHA
+
+programa
+{
+	inteiro Usuario
+        inteiro Senha
+
+	funcao inicio()
+	{
+		logico reposta = falso
+	        faca{
+                     escreval ("Digite seu nome de usuário: ")
+                     leia (Usuario)
+            
+                     escreval ("Digite sua senha: ")
+                     leia (Senha)
+                
+                 se (Usuario == Senha){
+                     escreval ("Erro!!! Não é possível ter um nome de usuário e senha iguais")
+                     resposta = falso
+                 }
+                 
+                 senao{
+                 escreval ("Cadastro Concluído")
+                 escreval ("Obrigado por usar o nosso sistema!!!")
+                 resposta = verdadeiro
+                 
+                 } enquanto(resposta == falso)
+                 }
+	}
+}
+
+NOME IDADE SALÁRIO ESTADOCIVIL
+programa
+{
+        inteiro Nome
+        inteiro Idade
+        inteiro Salario
+        inteiro EstadoCivil
+	
+	funcao inicio()
+	{
+		logico varNome = falso
+	        faca{
+                     escreval ("Bom dia! Por favor digite seu nome: ")
+                     leia (Nome)
+                
+                se (caractere =" "(Nome)){
+                     escreval ("Erro!!! Não é possível ter um nome vazio ")
+                     resposta = falso
+                 }
+                 
+                 senao{
+                 varNome = verdadeiro
+                 }
+                 
+                 }enquanto (varNome == falso)
+
+                 
+
+                 logico varIdade = falso
+	         faca{
+                     escreval ("Digite sua idade (Apenas o número): ")
+                     leia (Idade)
+                
+                se (Idade > 120){
+                     escreval ("Erro!!! Digite uma idade menor que 120 anos ")
+                     varIdade = falso
+                 }
+                 
+                 senao{
+                 varIdade = verdadeiro
+                 }
+                 
+                 }enquanto (varIdade == falso)
+
+
+                  
+                 logico varSalario = falso
+	        faca{
+                     escreval ("Digite seu salário (Apenas o número): ")
+                     leia (Salario)
+                
+                se (Salario <= 0){
+                     escreval ("Erro!!! Digite um salário maior que zero ")
+                     varSalario = falso
+                 }
+                 
+                 senao{
+                 varSalario = verdadeiro
+                 }
+                 
+                 }enquanto (varSalario == falso)
+
+
+
+                 logico varEstadoCivil = falso
+	        faca{
+                     escreval ("Digite seu estado civil, sendo s= solteiro(a), c= casado(a), v= viuvo(a), d= divorciado(a): ")
+                     leia (EstadoCivil)
+                
+                se (EstadoCivil == "c" || EstadoCivil == "s" || EstadoCivil == "v" || EstadoCivil == "d"){
+                     varEstadoCivil = verdadeiro
+                     escreval ("Seu cadastro foi concluído!")
+                 }
+                 
+                 senao{
+                 escreval ("Erro!!! Digite apenas a primeira letra do seu estado civil")
+                 varEstadoCivil = falso
+                 }
+                 
+                 }enquanto (varEstadoCivil == falso)
+        }
+}
+
+
+SEQUÊNCIA DE FIBONACCI
+
+programa
+{
+	inteiro N1
+        inteiro N2
+        inteiro Soma
+
+	funcao inicio()
+	{
+	  inteiro N1 = 1
+          inteiro N2 = 0
+          inteiro Soma = 0
+
+          para (inteiro i = 1; i < 15; i++){
+              Soma = N1 + N2;
+              N2 = N1;
+              N1 = Soma;
+              Escreval("A sequência de Fibonacci é: " + Soma)
+	}
+}
+
+
+
+
+
+
+
+
+

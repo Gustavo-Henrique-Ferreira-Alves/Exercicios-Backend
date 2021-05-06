@@ -15,9 +15,11 @@ namespace Exercicio_2
                 Console.WriteLine("Digite sua senha: ");
                 string Senha = Console.ReadLine();
 
-                if (Usuario == Senha)
+                if (Usuario == Senha){
                 Console.WriteLine("Erro!!! Não é possível ter um nome de usuário e senha iguais");
-
+                resposta = false;
+                }
+                
                 else
                 {
                 Console.WriteLine("Cadastro concluído");
