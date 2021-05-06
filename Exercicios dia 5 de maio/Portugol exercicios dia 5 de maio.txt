@@ -153,9 +153,9 @@ programa
 
 	funcao inicio()
 	{
-	  inteiro N1 = 1
-          inteiro N2 = 0
-          inteiro Soma = 0
+	  N1 = 1
+          N2 = 0
+          Soma = 0
 
           para (inteiro i = 1; i < 15; i++){
               Soma = N1 + N2;
