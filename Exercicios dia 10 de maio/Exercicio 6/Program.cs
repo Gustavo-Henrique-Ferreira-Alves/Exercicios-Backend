@@ -9,7 +9,7 @@ namespace Exercicio_6
             string[] Pessoas = new string [10];
 
             for (var i = 0; i < 10; i++){
-                Console.Write("Digite o nome da pessoa (Não esqueca de digitar a primeira letra em maiúsculo): ");
+                Console.WriteLine("Digite o nome da pessoa (Não esqueca de digitar a primeira letra em maiúsculo): ");
                 Pessoas[i] = Console.ReadLine();
             }
             

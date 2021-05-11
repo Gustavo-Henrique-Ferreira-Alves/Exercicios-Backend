@@ -9,15 +9,13 @@ namespace Exercicio_4
             int[] Numeros = new int [10]; 
 
             for (var i = 0; i < 10; i++){
-                Console.Write("Digite o número: ");
+                Console.WriteLine("Digite o número: ");
                 Numeros[i] = int.Parse(Console.ReadLine());
             }
             
-            int MaiorNumero = Numeros[9];
-            int MenorNumero = Numeros[0];
             Array.Sort(Numeros);
-            Console.WriteLine("O maior número é igual a: " + MaiorNumero);
-            Console.WriteLine("O menor número é igual a: " + MenorNumero);
+            Console.WriteLine("O menor número é igual a: " + Numeros[0]);
+            Console.WriteLine("O maior número é igual a: " + Numeros[9]);
         }
     }
 }
