@@ -67,6 +67,6 @@ namespace Exercicio_5
             }
 
         }while (VarTabuada == false);
-            }
         }
     }
+}
