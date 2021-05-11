@@ -1,0 +1,16 @@
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios dia 10 de maio\Exercicio 6\obj\Debug\net5.0\Exercicio 6.csprojAssemblyReference.cache
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios dia 10 de maio\Exercicio 6\obj\Debug\net5.0\Exercicio 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios dia 10 de maio\Exercicio 6\obj\Debug\net5.0\Exercicio 6.AssemblyInfoInputs.cache
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios dia 10 de maio\Exercicio 6\obj\Debug\net5.0\Exercicio 6.AssemblyInfo.cs
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios dia 10 de maio\Exercicio 6\obj\Debug\net5.0\Exercicio 6.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios dia 10 de maio\Exercicio 6\bin\Debug\net5.0\Exercicio 6.exe
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios dia 10 de maio\Exercicio 6\bin\Debug\net5.0\Exercicio 6.deps.json
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios dia 10 de maio\Exercicio 6\bin\Debug\net5.0\Exercicio 6.runtimeconfig.json
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios dia 10 de maio\Exercicio 6\bin\Debug\net5.0\Exercicio 6.runtimeconfig.dev.json
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios dia 10 de maio\Exercicio 6\bin\Debug\net5.0\Exercicio 6.dll
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios dia 10 de maio\Exercicio 6\bin\Debug\net5.0\ref\Exercicio 6.dll
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios dia 10 de maio\Exercicio 6\bin\Debug\net5.0\Exercicio 6.pdb
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios dia 10 de maio\Exercicio 6\obj\Debug\net5.0\Exercicio 6.dll
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios dia 10 de maio\Exercicio 6\obj\Debug\net5.0\ref\Exercicio 6.dll
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios dia 10 de maio\Exercicio 6\obj\Debug\net5.0\Exercicio 6.pdb
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios dia 10 de maio\Exercicio 6\obj\Debug\net5.0\Exercicio 6.genruntimeconfig.cache
