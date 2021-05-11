@@ -8,17 +8,19 @@ namespace Exercicio_1
         {
             Console.WriteLine("Digite o ano que você nasceu: ");
             int AnoNascimento = int.Parse(Console.ReadLine());
-            
+
             Console.WriteLine("Digite o ano atual: ");
             int AnoAtual = int.Parse(Console.ReadLine());
-            
+
             int Idade = AnoNascimento - AnoAtual;
-            
-            if (Idade >= 18){
+
+            if (Idade >= 18)
+            {
                 Console.WriteLine("Você pode votar!");
             }
-            
-            else{
+
+            else
+            {
                 Console.WriteLine("Você não pode votar!");
             }
         }
