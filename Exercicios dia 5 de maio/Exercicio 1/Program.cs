@@ -18,7 +18,7 @@ namespace Exercicio_1
                 else
                 {
                 Console.WriteLine("Nota válida!");
-                Console.WriteLine("Obrigado por usar o nosso sistema!!!");
+                Console.WriteLine("Obrigado por usar o nosso sistema!!");
                 resposta = true;
                 }
 
