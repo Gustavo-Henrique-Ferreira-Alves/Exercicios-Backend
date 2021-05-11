@@ -45,7 +45,7 @@ namespace Exercicio_2
                 break;
                 
                 default:
-                    Console.WriteLine("Inválido!!!");
+                    Console.WriteLine("Inválido!!! Por Favor siga as instruções passadas");
                 break;
             }
 
