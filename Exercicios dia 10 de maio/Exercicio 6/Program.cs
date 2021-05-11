@@ -22,12 +22,12 @@ namespace Exercicio_6
 
                 if (item == BuscaNome)
                 {
-                    Console.WriteLine("A pessoa está cadastrada");
+                    Console.WriteLine("ACHEI!!!");
                 }
 
                 else
                 {
-                    Console.WriteLine("A pessoa não está cadastrada");
+                    Console.WriteLine("NÃO ACHEI!!!");
                 }
             }
         }
