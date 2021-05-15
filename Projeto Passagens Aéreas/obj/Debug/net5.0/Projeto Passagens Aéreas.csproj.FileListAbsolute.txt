@@ -1,0 +1,16 @@
+C:\Users\AMD\Documents\Exercicios-Backend\Projeto Passagens Aéreas\obj\Debug\net5.0\Projeto Passagens Aéreas.csprojAssemblyReference.cache
+C:\Users\AMD\Documents\Exercicios-Backend\Projeto Passagens Aéreas\obj\Debug\net5.0\Projeto Passagens Aéreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Documents\Exercicios-Backend\Projeto Passagens Aéreas\obj\Debug\net5.0\Projeto Passagens Aéreas.AssemblyInfoInputs.cache
+C:\Users\AMD\Documents\Exercicios-Backend\Projeto Passagens Aéreas\obj\Debug\net5.0\Projeto Passagens Aéreas.AssemblyInfo.cs
+C:\Users\AMD\Documents\Exercicios-Backend\Projeto Passagens Aéreas\obj\Debug\net5.0\Projeto Passagens Aéreas.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Documents\Exercicios-Backend\Projeto Passagens Aéreas\bin\Debug\net5.0\Projeto Passagens Aéreas.exe
+C:\Users\AMD\Documents\Exercicios-Backend\Projeto Passagens Aéreas\bin\Debug\net5.0\Projeto Passagens Aéreas.deps.json
+C:\Users\AMD\Documents\Exercicios-Backend\Projeto Passagens Aéreas\bin\Debug\net5.0\Projeto Passagens Aéreas.runtimeconfig.json
+C:\Users\AMD\Documents\Exercicios-Backend\Projeto Passagens Aéreas\bin\Debug\net5.0\Projeto Passagens Aéreas.runtimeconfig.dev.json
+C:\Users\AMD\Documents\Exercicios-Backend\Projeto Passagens Aéreas\bin\Debug\net5.0\Projeto Passagens Aéreas.dll
+C:\Users\AMD\Documents\Exercicios-Backend\Projeto Passagens Aéreas\bin\Debug\net5.0\ref\Projeto Passagens Aéreas.dll
+C:\Users\AMD\Documents\Exercicios-Backend\Projeto Passagens Aéreas\bin\Debug\net5.0\Projeto Passagens Aéreas.pdb
+C:\Users\AMD\Documents\Exercicios-Backend\Projeto Passagens Aéreas\obj\Debug\net5.0\Projeto Passagens Aéreas.dll
+C:\Users\AMD\Documents\Exercicios-Backend\Projeto Passagens Aéreas\obj\Debug\net5.0\ref\Projeto Passagens Aéreas.dll
+C:\Users\AMD\Documents\Exercicios-Backend\Projeto Passagens Aéreas\obj\Debug\net5.0\Projeto Passagens Aéreas.pdb
+C:\Users\AMD\Documents\Exercicios-Backend\Projeto Passagens Aéreas\obj\Debug\net5.0\Projeto Passagens Aéreas.genruntimeconfig.cache
