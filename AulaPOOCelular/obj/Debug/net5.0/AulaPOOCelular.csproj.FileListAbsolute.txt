@@ -1,0 +1,16 @@
+C:\Users\AMD\Documents\Exercicios-Backend\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.exe
+C:\Users\AMD\Documents\Exercicios-Backend\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.deps.json
+C:\Users\AMD\Documents\Exercicios-Backend\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.runtimeconfig.json
+C:\Users\AMD\Documents\Exercicios-Backend\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.runtimeconfig.dev.json
+C:\Users\AMD\Documents\Exercicios-Backend\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.dll
+C:\Users\AMD\Documents\Exercicios-Backend\AulaPOOCelular\bin\Debug\net5.0\ref\AulaPOOCelular.dll
+C:\Users\AMD\Documents\Exercicios-Backend\AulaPOOCelular\bin\Debug\net5.0\AulaPOOCelular.pdb
+C:\Users\AMD\Documents\Exercicios-Backend\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.csprojAssemblyReference.cache
+C:\Users\AMD\Documents\Exercicios-Backend\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Documents\Exercicios-Backend\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.AssemblyInfoInputs.cache
+C:\Users\AMD\Documents\Exercicios-Backend\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.AssemblyInfo.cs
+C:\Users\AMD\Documents\Exercicios-Backend\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Documents\Exercicios-Backend\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.dll
+C:\Users\AMD\Documents\Exercicios-Backend\AulaPOOCelular\obj\Debug\net5.0\ref\AulaPOOCelular.dll
+C:\Users\AMD\Documents\Exercicios-Backend\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.pdb
+C:\Users\AMD\Documents\Exercicios-Backend\AulaPOOCelular\obj\Debug\net5.0\AulaPOOCelular.genruntimeconfig.cache
