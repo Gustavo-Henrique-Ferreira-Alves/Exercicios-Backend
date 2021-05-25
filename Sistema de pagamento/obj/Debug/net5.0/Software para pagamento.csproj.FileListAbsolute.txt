@@ -1,0 +1,16 @@
+C:\Users\AMD\Documents\Exercicios-Backend\Sistema de pagamento\bin\Debug\net5.0\Software para pagamento.exe
+C:\Users\AMD\Documents\Exercicios-Backend\Sistema de pagamento\bin\Debug\net5.0\Software para pagamento.deps.json
+C:\Users\AMD\Documents\Exercicios-Backend\Sistema de pagamento\bin\Debug\net5.0\Software para pagamento.runtimeconfig.json
+C:\Users\AMD\Documents\Exercicios-Backend\Sistema de pagamento\bin\Debug\net5.0\Software para pagamento.runtimeconfig.dev.json
+C:\Users\AMD\Documents\Exercicios-Backend\Sistema de pagamento\bin\Debug\net5.0\Software para pagamento.dll
+C:\Users\AMD\Documents\Exercicios-Backend\Sistema de pagamento\bin\Debug\net5.0\ref\Software para pagamento.dll
+C:\Users\AMD\Documents\Exercicios-Backend\Sistema de pagamento\bin\Debug\net5.0\Software para pagamento.pdb
+C:\Users\AMD\Documents\Exercicios-Backend\Sistema de pagamento\obj\Debug\net5.0\Software para pagamento.csprojAssemblyReference.cache
+C:\Users\AMD\Documents\Exercicios-Backend\Sistema de pagamento\obj\Debug\net5.0\Software para pagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Documents\Exercicios-Backend\Sistema de pagamento\obj\Debug\net5.0\Software para pagamento.AssemblyInfoInputs.cache
+C:\Users\AMD\Documents\Exercicios-Backend\Sistema de pagamento\obj\Debug\net5.0\Software para pagamento.AssemblyInfo.cs
+C:\Users\AMD\Documents\Exercicios-Backend\Sistema de pagamento\obj\Debug\net5.0\Software para pagamento.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Documents\Exercicios-Backend\Sistema de pagamento\obj\Debug\net5.0\Software para pagamento.dll
+C:\Users\AMD\Documents\Exercicios-Backend\Sistema de pagamento\obj\Debug\net5.0\ref\Software para pagamento.dll
+C:\Users\AMD\Documents\Exercicios-Backend\Sistema de pagamento\obj\Debug\net5.0\Software para pagamento.pdb
+C:\Users\AMD\Documents\Exercicios-Backend\Sistema de pagamento\obj\Debug\net5.0\Software para pagamento.genruntimeconfig.cache
