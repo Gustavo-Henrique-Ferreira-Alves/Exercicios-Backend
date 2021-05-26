@@ -49,7 +49,7 @@ X - Cancelar Pagamento
                         break;
 
                     default:
-                        Console.WriteLine("Opcao de pagamento invalida!\n");
+                        Console.WriteLine("Opcao de pagamento invalida!!!\n");
                         opcaoValida = false;
                         break;
                 }
