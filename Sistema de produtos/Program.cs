@@ -49,19 +49,19 @@ namespace Sistema_de_produtos
 
             static void Menu()
             {
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine(@" 
-                |==================================================|
-                |                                                  |
-                |           SELECIONE UMA DAS OPÇÕES               |                               
-                |                                                  |     
-                |           1- Cadastrar Produtos                  |
-                |           2- Listar Produtos                     |
-                |           0- Sair                                |
-                |                                                  |
-                |==================================================|
-                ");
-                Console.ForegroundColor = ConsoleColor.White;
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine(@" 
+            |==================================================|
+            |                                                  |
+            |           SELECIONE UMA DAS OPÇÕES               |                               
+            |                                                  |     
+            |           1- Cadastrar Produtos                  |
+            |           2- Listar Produtos                     |
+            |           0- Sair                                |
+            |                                                  |
+            |==================================================|
+            ");
+            Console.ForegroundColor = ConsoleColor.White;
             }
 
             static void Cadastrar()
