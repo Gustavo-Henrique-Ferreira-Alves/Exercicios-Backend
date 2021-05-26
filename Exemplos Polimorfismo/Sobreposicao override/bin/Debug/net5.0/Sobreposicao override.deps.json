@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sobreposicao override/1.0.0": {
+        "runtime": {
+          "Sobreposicao override.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sobreposicao override/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
