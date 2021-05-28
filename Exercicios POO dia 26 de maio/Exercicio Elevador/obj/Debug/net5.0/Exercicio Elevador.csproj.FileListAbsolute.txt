@@ -1,0 +1,16 @@
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Elevador\bin\Debug\net5.0\Exercicio Elevador.exe
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Elevador\bin\Debug\net5.0\Exercicio Elevador.deps.json
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Elevador\bin\Debug\net5.0\Exercicio Elevador.runtimeconfig.json
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Elevador\bin\Debug\net5.0\Exercicio Elevador.runtimeconfig.dev.json
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Elevador\bin\Debug\net5.0\Exercicio Elevador.dll
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Elevador\bin\Debug\net5.0\ref\Exercicio Elevador.dll
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Elevador\bin\Debug\net5.0\Exercicio Elevador.pdb
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Elevador\obj\Debug\net5.0\Exercicio Elevador.csprojAssemblyReference.cache
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Elevador\obj\Debug\net5.0\Exercicio Elevador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Elevador\obj\Debug\net5.0\Exercicio Elevador.AssemblyInfoInputs.cache
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Elevador\obj\Debug\net5.0\Exercicio Elevador.AssemblyInfo.cs
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Elevador\obj\Debug\net5.0\Exercicio Elevador.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Elevador\obj\Debug\net5.0\Exercicio Elevador.dll
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Elevador\obj\Debug\net5.0\ref\Exercicio Elevador.dll
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Elevador\obj\Debug\net5.0\Exercicio Elevador.pdb
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Elevador\obj\Debug\net5.0\Exercicio Elevador.genruntimeconfig.cache

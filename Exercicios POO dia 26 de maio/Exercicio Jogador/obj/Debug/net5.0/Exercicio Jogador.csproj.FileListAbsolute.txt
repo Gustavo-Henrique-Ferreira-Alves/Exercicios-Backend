@@ -1,0 +1,16 @@
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Jogador\bin\Debug\net5.0\Exercicio Jogador.exe
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Jogador\bin\Debug\net5.0\Exercicio Jogador.deps.json
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Jogador\bin\Debug\net5.0\Exercicio Jogador.runtimeconfig.json
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Jogador\bin\Debug\net5.0\Exercicio Jogador.runtimeconfig.dev.json
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Jogador\bin\Debug\net5.0\Exercicio Jogador.dll
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Jogador\bin\Debug\net5.0\ref\Exercicio Jogador.dll
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Jogador\bin\Debug\net5.0\Exercicio Jogador.pdb
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Jogador\obj\Debug\net5.0\Exercicio Jogador.csprojAssemblyReference.cache
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Jogador\obj\Debug\net5.0\Exercicio Jogador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Jogador\obj\Debug\net5.0\Exercicio Jogador.AssemblyInfoInputs.cache
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Jogador\obj\Debug\net5.0\Exercicio Jogador.AssemblyInfo.cs
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Jogador\obj\Debug\net5.0\Exercicio Jogador.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Jogador\obj\Debug\net5.0\Exercicio Jogador.dll
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Jogador\obj\Debug\net5.0\ref\Exercicio Jogador.dll
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Jogador\obj\Debug\net5.0\Exercicio Jogador.pdb
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Jogador\obj\Debug\net5.0\Exercicio Jogador.genruntimeconfig.cache

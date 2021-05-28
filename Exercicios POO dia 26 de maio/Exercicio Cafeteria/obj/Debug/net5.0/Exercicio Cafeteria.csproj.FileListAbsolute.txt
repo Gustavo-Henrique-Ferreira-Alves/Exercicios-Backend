@@ -1,0 +1,16 @@
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Cafeteria\bin\Debug\net5.0\Exercicio Cafeteria.exe
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Cafeteria\bin\Debug\net5.0\Exercicio Cafeteria.deps.json
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Cafeteria\bin\Debug\net5.0\Exercicio Cafeteria.runtimeconfig.json
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Cafeteria\bin\Debug\net5.0\Exercicio Cafeteria.runtimeconfig.dev.json
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Cafeteria\bin\Debug\net5.0\Exercicio Cafeteria.dll
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Cafeteria\bin\Debug\net5.0\ref\Exercicio Cafeteria.dll
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Cafeteria\bin\Debug\net5.0\Exercicio Cafeteria.pdb
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Cafeteria\obj\Debug\net5.0\Exercicio Cafeteria.csprojAssemblyReference.cache
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Cafeteria\obj\Debug\net5.0\Exercicio Cafeteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Cafeteria\obj\Debug\net5.0\Exercicio Cafeteria.AssemblyInfoInputs.cache
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Cafeteria\obj\Debug\net5.0\Exercicio Cafeteria.AssemblyInfo.cs
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Cafeteria\obj\Debug\net5.0\Exercicio Cafeteria.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Cafeteria\obj\Debug\net5.0\Exercicio Cafeteria.dll
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Cafeteria\obj\Debug\net5.0\ref\Exercicio Cafeteria.dll
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Cafeteria\obj\Debug\net5.0\Exercicio Cafeteria.pdb
+C:\Users\AMD\Documents\Exercicios-Backend\Exercicios POO dia 26 de maio\Exercicio Cafeteria\obj\Debug\net5.0\Exercicio Cafeteria.genruntimeconfig.cache
