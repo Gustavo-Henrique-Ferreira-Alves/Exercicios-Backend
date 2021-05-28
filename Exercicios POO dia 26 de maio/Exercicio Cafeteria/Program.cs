@@ -34,7 +34,7 @@ namespace Exercicio_Cafeteria
 
             else
             {
-                Console.WriteLine("O café sem açúcar está pronto!!!");
+                Console.WriteLine("\nO café sem açúcar está pronto!!!");
             }
         }
     }

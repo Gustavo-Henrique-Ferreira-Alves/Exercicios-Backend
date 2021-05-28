@@ -42,7 +42,7 @@ namespace Exercicio_Jogador
                         break;
 
                     default:
-                        Console.WriteLine("Por favor digite apenas defesa, meio campo ou ataque");
+                        Console.WriteLine("\nPor favor digite apenas defesa, meio campo ou ataque");
                         opcaoValida = false;
                         break;
                 }

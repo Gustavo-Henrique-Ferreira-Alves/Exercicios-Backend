@@ -4,18 +4,18 @@ namespace Exercicio_Elevador
 {
     public class Elevador
     {
-        public int Capacidade {get; set;}
-        public int Andares {get; set;}
-        public int Pessoas {get; set;}
-        public string Entra {get; set;}
-        public string ConfirmaçãoSair {get; set;}
-        public int AndarAtual {get; set;}
-        public int RespostaAndar {get; set;}
-        public int Contador {get; set;}
+        protected int Capacidade { get; set; }
+        protected int Andares { get; set; }
+        protected int PessoasOuCaixas { get; set; }
+        protected string Entra { get; set; }
+        protected string ConfirmaçãoSair { get; set; }
+        protected int AndarAtual { get; set; }
+        protected int RespostaAndar { get; set; }
+        protected int Contador { get; set; }
 
         public void Inicializar()
         {
-            Console.WriteLine("\nQual a capacidade do elevador: (Digite apenas o número)");
+            Console.WriteLine("\nQual a capacidade de pessoas ao mesmo tempo no elevador: (Digite apenas o número)");
             Capacidade = int.Parse(Console.ReadLine());
             Console.WriteLine("\nQuantos andares há no prédio: (Digite apenas o número)");
             Andares = int.Parse(Console.ReadLine());
@@ -29,9 +29,9 @@ namespace Exercicio_Elevador
             if (Entra == "sim")
             {
                 Console.WriteLine("\nQuantas pessoas há no elevador: (Digite apenas o número)");
-                Pessoas = int.Parse(Console.ReadLine().ToLower());
+                PessoasOuCaixas = int.Parse(Console.ReadLine().ToLower());
 
-                if (Pessoas < Capacidade)
+                if (PessoasOuCaixas < Capacidade)
                 {
                     Console.WriteLine("\nVocê pode entrar no elevador!!!\n");
                 }
@@ -49,7 +49,7 @@ namespace Exercicio_Elevador
 
         public void Sair()
         {
-            if (Pessoas > 0)
+            if (PessoasOuCaixas > 0)
             {
                 Console.WriteLine("\nVocê deseja sair do elevador (sim ou não)");
                 ConfirmaçãoSair = Console.ReadLine();
@@ -101,7 +101,7 @@ namespace Exercicio_Elevador
                     for (int i = 0; i < Contador; i++)
                     {
                         AndarAtual = AndarAtual - 1;
-                        Console.WriteLine($"\nVocê está no {AndarAtual}° andar\n");
+                        Console.WriteLine($"\nVocê está no {AndarAtual}° andar!\n");
                     }
                 }
                 else
