@@ -8,7 +8,7 @@ namespace Exercicio_Jogador
         {
             if (Idade > 35)
             {
-                Console.WriteLine("Possivelmente o jogador já se aponsentou");
+                Console.WriteLine("\nPossivelmente o jogador já se aponsentou");
             }
 
             else

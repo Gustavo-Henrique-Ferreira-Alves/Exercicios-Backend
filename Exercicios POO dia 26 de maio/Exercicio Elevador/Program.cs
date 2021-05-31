@@ -54,7 +54,7 @@ namespace Exercicio_Elevador
                             break;
 
                         default:
-                            Console.WriteLine("Por favor digite alguma das opções!!!");
+                            Console.WriteLine("\nPor favor digite alguma das opções!!!");
                             break;
                     }
                 } while (recomecar);
@@ -101,7 +101,7 @@ namespace Exercicio_Elevador
                             break;
 
                         default:
-                            Console.WriteLine("Por favor digite alguma das opções!!!");
+                            Console.WriteLine("\nPor favor digite alguma das opções!!!");
                             break;
                     }
                 } while (recomecar);
