@@ -1,0 +1,40 @@
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\E-players MVC.csprojAssemblyReference.cache
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\E-players MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\E-players MVC.AssemblyInfoInputs.cache
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\E-players MVC.AssemblyInfo.cs
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\E-players MVC.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\E-players MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\E-players MVC.RazorAssemblyInfo.cache
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\E-players MVC.RazorAssemblyInfo.cs
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\staticwebassets\E-players MVC.StaticWebAssets.Manifest.cache
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\staticwebassets\E-players MVC.StaticWebAssets.xml
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\scopedcss\bundle\E-players MVC.styles.css
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\E-players MVC.TagHelpers.input.cache
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\E-players MVC.TagHelpers.output.cache
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\E-players MVC.RazorCoreGenerate.cache
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\Razor\Views\Equipe\Index.cshtml.g.cs
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\E-players MVC.RazorTargetAssemblyInfo.cache
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\E-players MVC.RazorTargetAssemblyInfo.cs
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\E-players MVC.dll
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\ref\E-players MVC.dll
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\E-players MVC.pdb
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\bin\Debug\net5.0\appsettings.json
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\bin\Debug\net5.0\E-players MVC.exe
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\bin\Debug\net5.0\E-players MVC.deps.json
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\bin\Debug\net5.0\E-players MVC.runtimeconfig.json
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\bin\Debug\net5.0\E-players MVC.runtimeconfig.dev.json
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\bin\Debug\net5.0\E-players MVC.dll
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\bin\Debug\net5.0\ref\E-players MVC.dll
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\bin\Debug\net5.0\E-players MVC.pdb
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\bin\Debug\net5.0\E-players MVC.Views.dll
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\bin\Debug\net5.0\E-players MVC.Views.pdb
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\E-players MVC.Views.pdb
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\E-players MVC.genruntimeconfig.cache
+C:\Users\AMD\Documents\Exercicios-Backend\E-players MVC\obj\Debug\net5.0\E-players MVC.csproj.CopyComplete
